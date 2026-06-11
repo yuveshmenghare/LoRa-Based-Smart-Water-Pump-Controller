@@ -230,13 +230,3 @@ Results:
 Electronics Engineering Undergraduate
 Walchand College of Engineering, Sangli
 
-### Shreyas Kamble
-
-Electronics Engineering Undergraduate
-Walchand College of Engineering, Sangli
-
----
-
-# License
-
-This project is developed for educational and research purposes.
